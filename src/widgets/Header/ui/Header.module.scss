@@ -1,0 +1,14 @@
+.Header {
+  width: 100%;
+  background: white;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: 3fr 0.5fr;
+}
+
+.headerLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
